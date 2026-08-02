@@ -1,0 +1,22 @@
+# Environment variables
+.env
+.env.*
+
+# Credentials and service-account keys
+*.json
+credentials/
+secrets/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Operating system
+.DS_Store
+Thumbs.db
