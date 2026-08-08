@@ -27,7 +27,7 @@ La probabilité de churn obtenue pourrait être utilisée pour prioriser des act
 
 ## Architecture
 
-![Architecture du pipeline BigQuery ML Churn Prediction]("C:\Users\lydia\Downloads\ml_churn.png")
+<img src="docs/images/ml_churn.png" width="850">
 
 ```text
 Données clients synthétiques
