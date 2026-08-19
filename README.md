@@ -237,8 +237,4 @@ Pour un cas d'usage de production plus avancé, les améliorations possibles inc
 * Évaluation du modèle
 * Prédiction par batch
 * Scheduled Queries
-* Automatisation légère d'un pipeline ML
-
-## Contexte
-
-Ce projet a été réalisé dans le cadre de la formation Cloud Data Engineering sur Google Cloud dispensée par Data Upskilling.
+* Automatisation  d'un pipeline ML
